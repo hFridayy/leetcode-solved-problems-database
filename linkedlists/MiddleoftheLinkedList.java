@@ -1,6 +1,6 @@
 
 
-class Solution {
+class Linkedlists {
     public ListNode findmiddle(ListNode head){
         ListNode slow = head;
         ListNode fast = head;
